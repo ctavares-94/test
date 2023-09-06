@@ -10,7 +10,8 @@
 
 // Include the correct header where 'FontBatteryPercent' is declared
 // Make sure you have the appropriate header that defines FontBatteryPercent.
-#include "your_font_definitions_header.h"
+#include "include/gui_font_definitions.h"
+
 
 typedef struct {
     const char* title;
