@@ -1,5 +1,7 @@
 #include "continuity.h"
 #include <furi_hal_random.h>
+#include "gui_font_definitions.h"
+
 
 // Hacked together by @Willy-JL
 // Structures docs and Nearby Action IDs from https://github.com/furiousMAC/continuity/
