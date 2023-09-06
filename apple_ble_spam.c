@@ -3,7 +3,7 @@
 #include <furi_hal_bt.h>
 #include <assets_icons.h>
 #include "apple_ble_spam_icons.h"
-
+#include "gui_font_definitions.h" // Include the corrected header path
 #include "lib/continuity/continuity.h"
 
 typedef struct {
