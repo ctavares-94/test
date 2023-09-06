@@ -1,6 +1,6 @@
 #include "continuity.h"
 #include <furi_hal_random.h>
-
+#include "gui_font_definitions.h" // Include the corrected header path
 // Hacked together by @Willy-JL
 // Structures docs and Nearby Action IDs from https://github.com/furiousMAC/continuity/
 // Proximity Pair IDs from https://github.com/ECTO-1A/AppleJuice/
