@@ -6,6 +6,12 @@
 
 #include "lib/continuity/continuity.h"
 
+// Include the header where 'furi_hal_bt_set_custom_adv_data' is declared
+#include "furi_hal_bt.h"
+
+// Define or include the header where 'FontBatteryPercent' is declared
+#include "gui_font_definitions.h" // This is just an example; use the correct header
+
 typedef struct {
     const char* title;
     const char* text;
